@@ -4,3 +4,6 @@
 
 # BI-Project-I
 Interactive dashboard showing KPIs and business insights.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NudratDS/BI-Project-I/main/olympics_dashboardbi.png.png" alt="Olympics Dashboard" width="800"/>
+</p>
